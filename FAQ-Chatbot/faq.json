@@ -1,0 +1,15 @@
+[
+  {"question": "hi", "answer": "Hello! How can I help you with our FAQ today?"},
+  {"question": "hello", "answer": "Hi there! What can I assist you with?"},
+  {"question": "What is artificial intelligence?", "answer": "Artificial intelligence enables computers to perform tasks that normally require human intelligence."},
+  {"question": "What is machine learning?", "answer": "Machine learning allows computers to learn patterns from data."},
+  {"question": "What is data science?", "answer": "Data science is a field that uses scientific methods, processes, and algorithms to extract insights from data."},
+  {"question": "What is Python?", "answer": "Python is a high-level programming language used for many applications."},
+  {"question": "What is deep learning?", "answer": "Deep learning uses neural networks with multiple layers."},
+  {"question": "What is NLP?", "answer": "Natural Language Processing helps computers understand human language."},
+  {"question": "What are your working hours?", "answer": "Our working hours are Monday to Friday, from 9 AM to 5 PM."},
+  {"question": "How can I contact support?", "answer": "You can contact support through our official email or support page."},
+  {"question": "What is your refund policy?", "answer": "Refund requests can be submitted through customer support for review."},
+  {"question": "What services do you provide?", "answer": "We provide information and assistance related to our services."},
+  {"question": "How can I register?", "answer": "You can register by completing the registration form with the required details."}
+]

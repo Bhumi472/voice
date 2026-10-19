@@ -1,0 +1,9 @@
+﻿node_modules/
+.venv/
+FAQ-Chatbot/.venv/
+__pycache__/
+*.py[cod]
+.env
+
+FAQ-Chatbot/fine_tuned_model/model.safetensors
+FAQ-Chatbot/response.mp3
